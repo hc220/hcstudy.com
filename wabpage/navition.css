@@ -1,0 +1,54 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+#nav-bar
+{
+ position: sticky;
+    top: 0;
+    z-index: 10;
+}
+.navbar-nav LI
+{
+    padding: 0 10PX;
+}
+.navbar-nav A
+{
+    float: RIGHT;
+    text-align: left;
+}
+#nav-bar UL li a:hover{
+    color: #oo7bff!important;
+}
+.navbar
+{
+ background: #fff
+}
+.navbar-toggler
+{
+border: none
+}
+.nav-link
+{
+    color: antiquewhite;
+    font-weight: 600;
+    font-size: 16px;
+}
+#about
+{
+    padding-top: 50px;
+    padding-bottom: 50;
+    color:#555;
+}
+#about .btn
+{
+    margin-top: 20px;
+    margin-bottom: 30px
+    
+}
+.about-content
+{
+    
+    padding-top: 20px;
+}
